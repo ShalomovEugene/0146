@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	overflow-x: hidden;
+	max-width: 100vw;
+	min-width: 360px;
+	font-family: 'Source Sans Pro';
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+audio,
+video {
+	display: inline-block;
+}
+
+img {
+	border-style: none;
+}
